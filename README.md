@@ -92,7 +92,3 @@ To run the Temperature Converter locally, follow these steps:
 - **JavaScript** - Logic to handle temperature conversions and dynamic interactions.
 
 
-## Acknowledgements
-
-- Font Awesome for icons used in the interface.
-- Bootstrap for responsive and beautiful layout.
